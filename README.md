@@ -1,3 +1,6 @@
+
+compile 'com.github.hzj1028937670:VideoCompress:V1.0.1'
+
 # VideoCompressor
 A High-performance video compressor for Android using Hardware decoding and encoding API(MediaCodec).
 
